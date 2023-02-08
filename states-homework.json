@@ -1,0 +1,112 @@
+{"usStates":
+[{
+    "idNo":1,
+    "stateName":"Maryland",
+    "capital":"Annapolis",
+    "population":6177224,
+    "area":"12,407 sq mi",
+    "governor":"Larry Hogan",
+    "timeZone":"EST",
+    "flower":"Black-eyed Susan",
+    "sports":"Lacrosse"
+},
+{
+    "idNo":2,
+    "stateName":"California",
+    "capital":"Sacramento",
+    "population":39185605,
+    "area":"163,696 sq mi",
+    "governor":"Gavin Newsom",
+    "timeZone":"PST",
+    "flower":"California poppy",
+    "sports":"Surfing"
+},
+{
+    "idNo":3,
+    "stateName":"New York",
+    "capital":"Albany",
+    "population":20215751,
+    "area":"54,555 sq mi",
+    "governor":"Kathy Hochul ",
+    "timeZone":"EST",
+    "flower":"Rose",
+    "sports":"Baseball"
+},
+{
+    "idNo":4,
+    "stateName":"Texas",
+    "capital":"Austin",
+    "population":29145505,
+    "area":"268,596 sq mi",
+    "governor":"Greg Abbott",
+    "timeZone":"CST",
+    "flower":"Bluebonnet",
+    "sports":"Rodeo"
+},
+{
+    "idNo":5,
+    "stateName":"North Carolina",
+    "capital":"Raleigh",
+    "population":10551162,
+    "area":"53,819 sq mi",
+    "governor":"Roy Cooper",
+    "timeZone":"EST",
+    "flower":"Flowering dogwood",
+    "sports":"Stock car racing"
+},
+{
+    "idNo":6,
+    "stateName":"Colorado",
+    "capital":"Denver",
+    "population":5773714,
+    "area":"104,094 sq mi",
+    "governor":"Jared Polis",
+    "timeZone":"MST",
+    "flower":"Rocky Mountain columbine",
+    "sports":"Pack burro racing"
+},
+{
+    "idNo":7,
+    "stateName":"Delaware",
+    "capital":"Dover",
+    "population":1003384,
+    "area":"2,489 sq mi",
+    "governor":"John Carney",
+    "timeZone":"EST",
+    "flower":"Peach blossom",
+    "sports":"Bicycling"
+},
+{
+    "idNo":8,
+    "stateName":"Washington",
+    "capital":"Olympia",
+    "population":7887965,
+    "area":"71,362 sq mi",
+    "governor":"Jay Inslee",
+    "timeZone":"PST",
+    "flower":"Pacific rhododendron",
+    "sports":"Pickleball"
+},
+{
+    "idNo":9,
+    "stateName":"Michigan",
+    "capital":"Lansing",
+    "population":10077331,
+    "area":"99,729 sq mi",
+    "governor":"Gretchen Whitmer",
+    "timeZone":"EST",
+    "flower":"Apple blossom",
+    "sports":"American Football"
+},
+{
+    "idNo":10,
+    "stateName":"Florida",
+    "capital":"Tallahassee",
+    "population":21538187,
+    "area":"65,758 sq mi",
+    "governor":"Ron DeSantis",
+    "timeZone":"EST",
+    "flower":"Rosa laevigata",
+    "sports":"Golfing"
+}]
+}

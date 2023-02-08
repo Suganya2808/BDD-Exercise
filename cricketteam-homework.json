@@ -1,0 +1,50 @@
+{ "cricketTeam":
+[{
+    "idNo":1,
+    "teamName":"India A cricket team",
+    "captain":"Sanju Samson",
+    "coach":"Shitanshu Kotak",
+    "players":{
+        "name":["Ishan Kishan","Abhimanyu Easwaran","Sanju Samson"],
+        "age":[24,27,28],
+        "role":["Wicket-keeper","Batter","Wicket-keeper"]
+    },
+    "founded":1995
+},
+{
+    "idNo":2,
+    "teamName":"United States national cricket team",
+    "captain":"Monank Patel",
+    "coach":"J.Arunkumar",
+    "players":{
+        "name":["Monank Patel","Saurabh Netravalkar","Rusty Theron"],
+        "age":[29,31,37],
+        "style":["Wicket-keeper","Bowler","Bowler"]
+    },
+    "founded":1965
+},
+{
+    "idNo":3,
+    "teamName":"New Zealand national cricket team",
+    "captain":"Kane Williamson",
+    "coach":"Gary Stead",
+    "players":{
+        "name":["Kane Williamson","Martin Guptill","Trent Boult"],
+        "age":[32,36,33],
+        "style":["Batter","Batter","Bowler"]
+    },
+    "founded":1930
+},
+{
+    "idNo":4,
+    "teamName":"Pakistan national cricket team",
+    "captain":"Babar Azam",
+    "coach":"Saqlain Mushtaq",
+    "players":{
+        "name":["Babar Azam","Shaheen Afridi","Mohammad Rizwan"],
+        "age":[28,22,30],
+        "style":["Batter","Bowler","Wicket-keeper"]
+    },
+    "founded":1952
+}]
+}
